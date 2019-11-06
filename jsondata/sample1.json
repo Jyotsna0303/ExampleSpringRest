@@ -1,0 +1,14 @@
+{
+	"id": 70,
+	"firstName": "Meredith",
+	"lastName": "Grey",
+	"active": true,
+	"address": {
+		"street": "100 Main ",
+		"city": "Seattle",
+		"state": "Washington",
+		"zip": "98105",
+		"country": "USA"
+	},
+	"interests" : ["General Surgery", "Neuro", "Mini livers"]
+}
